@@ -72,5 +72,5 @@ Thumbs.db
 yarn.lock
 **/ormconfig.json
 **.env
-**/database.modules.ts
+**/database.module.ts
 **/database.providers.ts
