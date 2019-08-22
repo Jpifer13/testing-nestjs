@@ -70,3 +70,7 @@ Thumbs.db
 *.sublime-project
 *.sublime-workspace
 yarn.lock
+**/ormconfig.json
+**.env
+**/database.modules.ts
+**/database.providers.ts
